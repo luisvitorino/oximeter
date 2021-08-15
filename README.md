@@ -1,2 +1,2 @@
 # oximeter
-Oximeter constructed in PSoC
+Oximeter constructed in PSoC.
